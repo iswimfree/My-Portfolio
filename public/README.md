@@ -85,3 +85,14 @@ Then the content should be unique and reflect the skills and personality of the 
     - A question within the context of today's lab assignment
     - An observation about the lab assignment, or related 'Ah-hah!' moment
     - How long you spent working on this assignment
+
+
+Number and name of feature: css & HTML 
+
+Estimate of time needed to complete:  2 hours
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete: 2.5 hours
